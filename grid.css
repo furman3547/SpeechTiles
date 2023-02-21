@@ -1,0 +1,47 @@
+
+
+main {
+	position: relative;
+	width: calc(100vmin - 40px);
+	height: calc(100vmin - 40px);
+	flex-direction: column;
+	flex-wrap: wrap;
+	
+}
+section {
+	flex: 0 0 20%;
+	min-height: 20%;
+	border: 1px solid #fff;
+	background-color: #eee;
+	align-items: center;
+	justify-content: center;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#textinputfield {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	}
+	
+	input, select, textarea {
+	font-size: 150%;
+	}
+
+
+	
+
+.cards {
+	max-width: 500px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+
+	

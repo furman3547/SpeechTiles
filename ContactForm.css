@@ -1,0 +1,31 @@
+body {
+    background: #e5acb6;
+  }
+  
+  .form-box {
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
+    background: #ffecef;
+    border: 10px solid #fcd1d1;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .radio {
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom:10px;
+  }
+  
+  h1, p {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+  }
+  
+  input, textarea {
+    width: 100%;
+  }
